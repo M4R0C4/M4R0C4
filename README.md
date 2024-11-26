@@ -1,5 +1,5 @@
-## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4R0C4&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br>
+🌱 I’m currently learning JavaScript
 <!--
 **M4R0C4/M4R0C4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
