@@ -5,9 +5,12 @@
 
 Bem-vindo ao meu portfólio! Aqui você vai encontrar uma coleção de projetos web desenvolvidos durante a minha jornada de aprendizado e crescimento como desenvolvedor Full Stack. Cada projeto foi uma oportunidade para explorar novas tecnologias, resolver desafios e aprimorar minhas habilidades em programação.
 
-## 🧑‍💻 Sobre Mim
+## 🔧 Tecnologias
 
-Sou **Mariana Candido**, apaixonada por **desenvolvimento web** e **tecnologias inovadoras**. Meu objetivo é criar soluções práticas e eficientes que ajudem a transformar ideias em realidade. Ao longo da minha trajetória, tenho explorado tanto o desenvolvimento **Front-End** quanto **Back-End**, com foco em uma abordagem **Full Stack**.
+- **Front-End**: HTML, CSS, JavaScript
+- **Back-End**: Python, Node.js (em alguns projetos, mas em aprendizagem 🌱)
+- **Frameworks**: em aprendizagem 🌱
+- **Versionamento**: Git, GitHub
 
 ## 🔨 Meus Projetos
 
@@ -86,15 +89,6 @@ Este é um projeto que visa implementar a famosa técnica de gerenciamento de te
 
 [Visitar o projeto (em breve)]([#](https://github.com/M4R0C4/Pomodoro)) 
   
----
-
-## 🔧 Tecnologias
-
-- **Front-End**: HTML, CSS, JavaScript
-- **Back-End**: Python, Node.js (em alguns projetos, mas em aprendizagem 🌱)
-- **Frameworks**: em aprendizagem 🌱
-- **Versionamento**: Git, GitHub
-
 ---
 
 Obrigado por visitar meu portfólio! 😊
