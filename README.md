@@ -12,6 +12,8 @@ Bem-vindo ao meu portfólio! Aqui você vai encontrar uma coleção de projetos 
 - **Frameworks**: em aprendizagem 🌱
 - **Versionamento**: Git, GitHub
 
+  ---
+
 ## 🔨 Meus Projetos
 
 Aqui estão alguns dos projetos mais significativos que desenvolvi. Cada um deles reflete minha evolução e aprendizado contínuo:
