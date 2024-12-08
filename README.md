@@ -81,7 +81,7 @@ Uma aplicação web que permite aos usuários criar e gerenciar suas listas de c
 
 ---
 
-### **Pomodoro** *(Em Desenvolvimento)*
+### **Pomodoro** 
 Este é um projeto que visa implementar a famosa técnica de gerenciamento de tempo **Pomodoro**. O aplicativo ajuda os usuários a gerenciar seu tempo de trabalho, dividindo-o em blocos de 25 minutos de foco, seguidos por breves intervalos. Atualmente, o projeto está em desenvolvimento, com a implementação de contagem regressiva e registros de sessões de trabalho em andamento.
 
 - **Tecnologias utilizadas**: JavaScript, HTML, CSS.
