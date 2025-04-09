@@ -1,35 +1,24 @@
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4R0C4&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br> 
-  
+<h1 align="center">Hi 👋, I'm Mariana</h1>
+<h3 align="center">An aspiring Front-End developer</h3>
 
-# Meu Portfólio de Projetos Web 🚀
+- 🔭 I’m currently working on [Contribuindo em um Projeto Open Source no GitHub](https://github.com/digitalinnovationone/dio-lab-open-source)
 
-Bem-vindo ao meu portfólio! Aqui você vai encontrar uma coleção de projetos web desenvolvidos durante a minha jornada de aprendizado e crescimento como desenvolvedor Full Stack. Cada projeto foi uma oportunidade para explorar novas tecnologias, resolver desafios e aprimorar minhas habilidades em programação.
+- 🌱 I’m currently learning **JavaScript and Python**
 
-## 🔧 Tecnologias
+- 👨‍💻 All of my projects are available at [https://my-page-portifolio.vercel.app/](https://my-page-portifolio.vercel.app/)
 
-- **Front-End**: HTML, CSS, JavaScript
-- **Back-End**: Python, Node.js (em alguns projetos, mas em aprendizagem 🌱)
-- **Frameworks**: em aprendizagem 🌱
-- **Versionamento**: Git, GitHub
+- 📫 How to reach me **mariana.rodrigues.or@gmail.com**
 
-  ---
-Fique a vontade para conhecer meus repositórios e entrar em contato!
+- ⚡ Fun fact **I love The Office US, sometimes I think I'm Stanley**
 
-Obrigado por visitar meu portfólio! 😊
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/@the.maroca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@the.maroca" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m4r0c4&show_icons=true&locale=en&layout=compact" alt="m4r0c4" /></p>
 
-<!--
-**M4R0C4/M4R0C4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m4r0c4&" alt="m4r0c4" /></p>
