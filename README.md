@@ -1,5 +1,3 @@
-<img align="left" height="170" src="https://my-page-portifolio.vercel.app/img/me.jpg"  />
-
 ###
 
 <div>
