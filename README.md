@@ -1,6 +1,5 @@
-<body background='#7A66AB'>
 
-  
+ 
 ###
 
 <div>
@@ -44,4 +43,3 @@
 </div>
 
 ###
-</body>
