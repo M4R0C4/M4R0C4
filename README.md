@@ -64,9 +64,14 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<div align="center">
+
+[![M4R0C4's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4R0C4&show_icons=true&theme=dracula)](https://github.com/M4R0C4/github-readme-stats)
+  
+</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=M4R0C4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=M4R0C4&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
