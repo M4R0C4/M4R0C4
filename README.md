@@ -35,7 +35,7 @@
 
 ###
 
-<h5 align="left">- 🔭 Me tornando uma boa desenvolvedora<br>- 📚 Aprendendo Django <br>- ⚡ Dou aulas de Física e Matemática, além de jogar RubinOT</h5>
+<h5 align="left">- 🔭 Me tornando uma boa desenvolvedora<br>- 📚 Aprendendo Django, Flask e React <br>- ⚡ Dou aulas de Física e Matemática, além de jogar RubinOT</h5>
 
 ###
 
